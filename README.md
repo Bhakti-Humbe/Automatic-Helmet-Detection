@@ -10,18 +10,12 @@ To address this issue, we developed **"Automatic Helmet Detector using CNN"**, a
 ## 🛠️ Features  
 ✅ Detects whether a motorcycle rider is wearing a helmet using **Convolutional Neural Networks (CNN)**  
 ✅ Real-time detection using **image/video processing**  
-✅ Automated fine notification for non-compliant riders  
 ✅ Can be integrated with traffic surveillance systems  
 
 ## 📂 Tech Stack  
 - **Programming Language**: Python  
-- **Deep Learning Framework**: TensorFlow/Keras  
 - **Computer Vision**: OpenCV  
 - **Dataset**: Custom dataset for helmet detection  
-- **Notification System**: Twilio (for SMS) / Email API  
-
-## 📸 Screenshots  
-(Add images or GIFs demonstrating the project output)  
 
 ## 🚀 Installation & Setup  
 1. Clone the repository:  
